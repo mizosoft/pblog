@@ -6,10 +6,19 @@ on:
       - master
 
 jobs:
-  github-pages:
+  jekyll:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
+      # Cache to run builds faster (see https://github.com/helaili/jekyll-action)
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GH_TOKEN }}
