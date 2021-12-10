@@ -63,7 +63,7 @@ I knew I was dead. I knew death wasn’t the end. I knew precisely I was experie
 made me an agent of my dread-induced impulses seemed to magically evaporate. I couldn’t do but endlessly and continually transcend upward this unearthly, colorful,
 dominantly greyish, noisy, interminable void. 
 
-In that same manner of seamless abruptness, I could feel the familiar heft of my familiar body. Simultaneously, I could feel the weight of firmly shut eyelids.
+In that same manner of seamless abruptness, I could feel the familiar heft of my familiar body. Simultaneously, I could feel the weight of my firmly shut eyelids.
 Slightly perplexed, I endeavored to open them. All in a split of a second, I succeeded. I could see my head resting on the familiar pillow, all on top of the
 familiar bedsheet and, less than a meter from my feet, the familiar two narrow, oblong windows. A silent sigh of relief echoed throughout my reclaimed awareness.
 It was yet another wicked act of my spiteful unconscious. A vehement protest of the psyche against its owner. Perhaps it was a warning. A violent call towards the
