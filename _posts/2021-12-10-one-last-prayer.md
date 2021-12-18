@@ -46,7 +46,7 @@ with so little time to say it, and an irresistible desire to roar it all out.
 
 Before I could grasp my shouts, which were supposed to somehow resemble uttered words, an insuppressible sense of futility pervaded. I knew, at the very depths of
 my awareness, or what was left of it, that my indistinctive, rushed, frenetic maneuver, whichever purpose it served, was all in vain. It was simply too late. It
-was something that wasn’t done when it was due, and now must be pointlessly compressed into seconds of roaring, all to ultimately serve no purpose whatsoever, but
+was something that wasn’t done when it was due and now must be compressed into seconds of roaring, all to ultimately serve no purpose whatsoever, but
 perhaps to retain, or rather lose, the crumbs of dignity one was left with. And with that I could finally, if vaguely, grasp my words, and know precisely what my
 actions represented. It was a feeble little attempt at redeeming my unredeemable self. A futile, unworthy repentance. One last plead to the infinite, crushing force
 of absolute and ultimate judgment. A force that was only then realized, and as a result, became too much to bear that it instantly made you crumble appealing for
