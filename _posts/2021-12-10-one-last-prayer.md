@@ -51,7 +51,7 @@ perhaps to retain, or rather lose, the crumbs of dignity one was left with. And 
 actions represented. It was a feeble little attempt at redeeming my unredeemable self. A futile, unworthy repentance. One last plead to the infinite, crushing force
 of absolute and ultimate judgment. A force that was only then realized, and as a result, became too much to bear that it instantly made you crumble appealing for
 absolution. One last vain effort at doing all the things I’ve always known I must’ve done, but willingly decided not to, manifested in what seemed most as so then.
-One last prayer. A prayer that not a thousand Hitchens could distract me from.
+One last prayer.
 
 In a manner that seemed abrupt, although one that couldn’t be more seamless and elegant, resembling a transition that one blacked out right when it occurred,
 I found myself drifting upwards through an unfamiliar medium, right after the roaring rose to its climax. It almost felt as if I was floating, but there was no water.
